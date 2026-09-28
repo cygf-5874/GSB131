@@ -1,0 +1,7 @@
+*.exe
+*.exe~
+*.test
+*.out
+*.prof
+/bin/
+/vendor/
